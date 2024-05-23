@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hauke</h1>
 <h3 align="center">A Physicist turned Software Developer</h3>
 
-During my physics master I have developed a passion for Software Development and decided to pursue this passion in my professional career. I have the most experience with Python but have also worked with C++ and frontend technologies.
+During my master's in physics I have developed a passion for software development and decided to pursue this passion in my professional career. I have the most experience with Python but I have also worked with C++ and frontend technologies.
 
 - 🌱 I’m currently learning **Web Development with React and Node.js**
 
